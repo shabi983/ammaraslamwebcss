@@ -1,0 +1,2 @@
+#marketingbar.marketing-bar{display:none !important;}
+body.has-marketing-bar{--wp-admin--marketing-bar--height: 0 !important;}
